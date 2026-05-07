@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+imageio
+opencv-python
+pydot
+graphviz
+h5py
+tensorflow
+keras
